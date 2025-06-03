@@ -1,8 +1,11 @@
-# Python-Tasks-Assignment
-task one is a basic calculator 
-it takes number as iput and perform the basics operation 
+# Python Tasks Assignment
 
-task 2 takes first and last name as input and combine it 
-and generate a greeting messege !!
- i also write the output as comment in same file 
- 
+This repository contains two Python scripts created for academic tasks.
+
+## Task 1 - [Basic calculator ]
+ It takes two number as input and perform basic operation like 
+ addition ,substraction ,multiplication , division.
+
+## Task 2 - [Greeting by name !]
+ It takes First and Last name as input and generate a 
+ greeting messege .
